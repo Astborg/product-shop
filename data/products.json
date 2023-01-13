@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "img": "https://shelta.se/pub_images/original/CQ2560-100_1.jpg?timestamp=1602692163",
+        "beskrivning": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum quas quasi praesentium voluptates minima deleniti enim sint quidem expedita sed ut officiis hic dolore dolor quaerat atque earum tenetur necessitatibus, maiores odit illo molestias voluptatibus adipisci quos? Vero necessitatibus tempora inventore, accusamus illo, maiores quisquam quo odit nesciunt qui nisi hic est non aliquid ex numquam earum aperiam? Recusandae excepturi eligendi nemo magni praesentium assumenda, placeat rem numquam illo provident earum officia eveniet tempora commodi laborum molestias animi expedita nihil sint explicabo quos modi at. Odio vel a voluptas explicabo pariatur, enim impedit quas eius ab recusandae, veniam, deserunt consequatur.",
+        "pris": "599kr"
+    },
+    {
+        "id": 2,
+        "img": "https://shelta.se/pub_images/original/DV1129-001_1.jpg?timestamp=1673044814",
+        "beskrivning": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum quas quasi praesentium voluptates minima deleniti enim sint quidem expedita sed ut officiis hic dolore dolor quaerat atque earum tenetur necessitatibus, maiores odit illo molestias voluptatibus adipisci quos? Vero necessitatibus tempora inventore, accusamus illo, maiores quisquam quo odit nesciunt qui nisi hic est non aliquid ex numquam earum aperiam? Recusandae excepturi eligendi nemo magni praesentium assumenda, placeat rem numquam illo provident earum officia eveniet tempora commodi laborum molestias animi expedita nihil sint explicabo quos modi at. Odio vel a voluptas explicabo pariatur, enim impedit quas eius ab recusandae, veniam, deserunt consequatur.",
+        "pris": "599kr"
+    },
+    {
+        "id": 3,
+        "img": "https://shelta.se/pub_images/original/AH6789-001_1.jpg?timestamp=1609192138",
+        "beskrivning": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum quas quasi praesentium voluptates minima deleniti enim sint quidem expedita sed ut officiis hic dolore dolor quaerat atque earum tenetur necessitatibus, maiores odit illo molestias voluptatibus adipisci quos? Vero necessitatibus tempora inventore, accusamus illo, maiores quisquam quo odit nesciunt qui nisi hic est non aliquid ex numquam earum aperiam? Recusandae excepturi eligendi nemo magni praesentium assumenda, placeat rem numquam illo provident earum officia eveniet tempora commodi laborum molestias animi expedita nihil sint explicabo quos modi at. Odio vel a voluptas explicabo pariatur, enim impedit quas eius ab recusandae, veniam, deserunt consequatur.",
+        "pris": "599kr"
+    }
+]
